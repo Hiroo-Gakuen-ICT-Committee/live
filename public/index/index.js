@@ -53,7 +53,7 @@ anime({
   ],
 });
 anime({
-  targets: '.boxes',
+  targets: '.box',
   opacity: [{
       value: '0',
       duration: 0,

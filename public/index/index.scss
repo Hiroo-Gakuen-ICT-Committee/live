@@ -32,17 +32,14 @@ body {
     -ms-transform: translateX(-50%);
   }
 
-  .boxes {
-    text-align: center;
-    margin-top: 17vh;
-
-    .box1 {
-      height: 70vh;
-    }
-
-    .box2 {
-      height: 70vh;
-    }
+  .box {
+    width: 85vw;
+    position: absolute;
+    top: 15vh;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
   }
 
   .time1 {
