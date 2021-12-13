@@ -15,7 +15,7 @@ body .text1 {
 }
 
 body .text2 {
-  width: 30vw;
+  width: 27.5vw;
   position: absolute;
   top: 0;
   left: 0;
@@ -26,7 +26,7 @@ body .text2 {
 }
 
 body .title {
-  height: 18vh;
+  height: 21vh;
   position: absolute;
   top: 2vh;
   left: 50%;
@@ -36,9 +36,9 @@ body .title {
 }
 
 body .box {
-  width: 80vw;
+  width: 78vw;
   position: absolute;
-  top: 50%;
+  top: 51%;
   left: 50%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
@@ -48,8 +48,8 @@ body .box {
 body .time1 {
   height: 16vh;
   position: absolute;
-  bottom: 0.5vh;
-  left: 50%;
+  bottom: 1.5vh;
+  left: 37.5%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
