@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@media (max-width: 479px) {
+  body{
+    background-color: #141e23;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    .text1{
+      width: 100vw;
+    }
+  }
+}
