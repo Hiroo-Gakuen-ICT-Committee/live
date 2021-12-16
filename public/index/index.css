@@ -54,9 +54,3 @@ body .time1 {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
 }
-
-@media (max-width: 479px) {
-  body {
-    background-color: #FF0000;
-  }
-}
