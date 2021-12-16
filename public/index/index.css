@@ -45,6 +45,10 @@ body .box {
   -ms-transform: translate(-50%, -50%);
 }
 
+body .box2 {
+  display: none;
+}
+
 body .time1 {
   height: 16vh;
   position: absolute;

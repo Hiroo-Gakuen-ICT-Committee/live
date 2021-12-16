@@ -16,7 +16,17 @@
       width: 90vw;
     }
     .box{
+      display: none;
+    }
+    .box2{
+      display: inline;
       width: 90vw;
+      position: absolute;
+      top: 51%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
     }
     .time1{
       width: 90vw;

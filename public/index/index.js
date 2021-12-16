@@ -71,6 +71,20 @@ anime({
   ],
 });
 anime({
+  targets: '.box2',
+  opacity: [{
+      value: '0',
+      duration: 0,
+      delay: 0,
+    },
+    {
+      value: '1',
+      duration: 1300,
+      delay: 6000,
+    },
+  ],
+});
+anime({
   targets: '.time1',
   opacity: [{
       value: '0',
