@@ -58,3 +58,14 @@ body .time1 {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
 }
+
+body iframe {
+  position: absolute;
+  top: 51%;
+  left: 14vw;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  width: 48vw;
+  height: 27vw;
+}
